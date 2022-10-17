@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zohaibshahid26&label=Profile%20views&color=0e75b6&style=flat" alt="zohaibshahid26" /> </p>
 
-- 💻 Studying Software Engineering from PUCIT,Lahore
+- 💻 Studying Software Engineering from PUCIT,Lahore.
 
 - 🌱 I’m currently learning **C++,Html and CSS.**
 
