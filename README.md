@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Zohaib Shahid</h1>
 <h3 align="center">I am a passionate Software Engineering Student from Pakistan.</h3>
-<img align="right" alt"=coding" width="400" src=![image](https://user-images.githubusercontent.com/113136910/196203722-6516e933-1543-4aee-bf9f-a6c3293ff48a.png)>
+<img align"right" alt="coding" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0Kpiqd8zxC68dzwl1UEmiU&ust=1666103032840000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCMjx2My75_oCFQAAAAAdAAAAABAE">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zohaibshahid26&label=Profile%20views&color=0e75b6&style=flat" alt="zohaibshahid26" /> </p>
+
 
 - 🌱 I’m currently learning **C++,Html and CSS.**
 
