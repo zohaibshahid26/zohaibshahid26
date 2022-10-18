@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **C++,Html and CSS.**
 
-- 📫 How to reach me **zohaibshahid200@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/zohaibshahid26/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
