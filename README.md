@@ -6,7 +6,7 @@
 
 - 💻 Studying Software Engineering from PUCIT,Lahore.
 
-- 🌱 I’m currently learning **C++,Html and CSS.**
+- 🌱 I’m currently learning **Python,C++,Html and CSS.**
 
 - 📫 How to reach me **https://www.linkedin.com/in/zohaibshahid26/**
 
