@@ -6,11 +6,17 @@ Software Engineering Undergrad and Aspiring Web Developer
 
 I am a web developer in training who is learning React and passionate about learning new things.
 
-*   🌍  I'm based in Lahore, Pakistan.
-*   🧠  I'm learning React, Node.js, MongoDB, Express.js, Data Analytics<a href="https://www.github.com/zohaibshahid26" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/zohaibshahid26?logo=github&style=for-the-badge&color=84cc16&labelColor=000000" /></a><a href="https://www.twitter.com/zohaibshah1d" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/zohaibshah1d?logo=twitter&style=for-the-badge&color=84cc16&labelColor=000000"
-                /></a>### Skills 
+* 🌍  I'm based in Lahore, Pakistan.
+* 🧠  I'm learning React, Node.js, MongoDB, Express.js, Data Analytics
+
+<a href="https://www.github.com/zohaibshahid26" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/zohaibshahid26?logo=github&style=for-the-badge&color=3382ed&labelColor=000000" /></a><a href="https://www.twitter.com/zohaibshah1d" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/zohaibshah1d?logo=twitter&style=for-the-badge&color=3382ed&labelColor=000000"
+/></a>
+
+### Skills
+
+
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
@@ -27,22 +33,20 @@ I am a web developer in training who is learning React and passionate about lear
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/zohaibshahid26" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
-                          
-                      <a href="http://www.instagram.com/zohaibshah1d" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/zohaibshahid26" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="http://www.medium.com/zohaibshahid200" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitter.com/zohaibshah1d" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p><b>My GitHub Stats</b><a
-                      href="http://www.github.com/zohaibshahid26"><img src="https://github-readme-stats.vercel.app/api?username=zohaibshahid26&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=000000&hide_border=true&show_icons=true" alt="zohaibshahid26's GitHub stats" /></a><a
-                      href="http://www.github.com/zohaibshahid26"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=zohaibshahid26&stroke=ffffff&background=000000&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a href="https://github.com/zohaibshahid26" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zohaibshahid26&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-                  </p>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/zohaibshahid26" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/zohaibshah1d" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/zohaibshahid26" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/zohaibshahid200" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/zohaibshah1d" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/zohaibshahid26"><img src="https://github-readme-stats.vercel.app/api?username=zohaibshahid26&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="zohaibshahid26's GitHub stats" /></a>
+
+<a href="http://www.github.com/zohaibshahid26"><img src="https://github-readme-streak-stats.herokuapp.com/?user=zohaibshahid26&stroke=ffffff&background=000000&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zohaibshahid26&theme=react-dark&radius=10&area-color=3382ed)](https://github.com/zohaibshahid26/github-readme-activity-graph)
+
+<a href="https://github.com/zohaibshahid26" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zohaibshahid26&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
