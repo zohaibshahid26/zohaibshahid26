@@ -13,6 +13,8 @@ I am a web developer in training who is learning React and passionate about lear
 src="https://img.shields.io/github/followers/zohaibshahid26?logo=github&style=for-the-badge&color=3382ed&labelColor=000000" /></a><a href="https://www.twitter.com/zohaibshah1d" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/zohaibshah1d?logo=twitter&style=for-the-badge&color=3382ed&labelColor=000000"
 /></a>
+<br>
+![](https://komarev.com/ghpvc/?username=zohaibshahid26)
 
 ### Skills
 
