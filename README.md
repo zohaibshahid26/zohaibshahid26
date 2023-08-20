@@ -14,7 +14,7 @@ src="https://img.shields.io/github/followers/zohaibshahid26?logo=github&style=fo
 src="https://img.shields.io/twitter/follow/zohaibshah1d?logo=twitter&style=for-the-badge&color=3382ed&labelColor=000000"
 /></a>
 <br>
-![](https://komarev.com/ghpvc/?username=zohaibshahid26)
+
 
 ### Skills
 
@@ -42,7 +42,7 @@ src="https://img.shields.io/twitter/follow/zohaibshah1d?logo=twitter&style=for-t
 
 <p align="left"> <a href="https://www.github.com/zohaibshahid26" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/zohaibshah1d" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/zohaibshahid26" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/zohaibshahid200" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/zohaibshah1d" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### Badges
+<span> ![](https://komarev.com/ghpvc/?username=zohaibshahid26) </span>
 
 <b>My GitHub Stats</b>
 
