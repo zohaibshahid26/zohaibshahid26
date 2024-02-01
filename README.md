@@ -7,7 +7,7 @@ Software Engineering Undergrad and Aspiring Web Developer
 I am a web developer in training who is learning React and passionate about learning new things.
 
 * 🌍  I'm based in Lahore, Pakistan.
-* 🧠  I'm learning React, Node.js, MongoDB, Express.js, Php Data Analytics
+* 🧠  I'm learning React, Node.js, MongoDB, Express.js, .NET
 
 <a href="https://www.github.com/zohaibshahid26" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/zohaibshahid26?logo=github&style=for-the-badge&color=3382ed&labelColor=000000" /></a><a href="https://www.twitter.com/zohaibshah1d" target="_blank" rel="noreferrer"><img
