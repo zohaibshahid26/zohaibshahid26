@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Zohaib Shahid and I'm a CSE Undergrad, from Pakistan.<br>I'm current learning .NET and MERN.</h2>
+<h2 align="left">Hi 👋! My name is Zohaib Shahid and I'm a CSE Undergrad, from Pakistan.<br>Currently learning .NET and MERN.</h2>
 
 ###
 
