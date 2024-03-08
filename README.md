@@ -60,7 +60,7 @@
 
 ###
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zohaibshahid26&theme=dracula&bg-color=282a36&radius=10&area-color=282a36)](https://github.com/zohaibshahid26/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zohaibshahid26&theme=dracula&radius=10)](https://github.com/zohaibshahid26/github-readme-activity-graph)
 
 ###
 <div align="left">
