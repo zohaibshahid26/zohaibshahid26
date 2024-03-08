@@ -60,7 +60,7 @@
 
 ###
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zohaibshahid26&theme=react&radius=10)](https://github.com/zohaibshahid26/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zohaibshahid26&theme=react&radius=10&area=true)](https://github.com/zohaibshahid26/github-readme-activity-graph)
 
 ###
 <div align="left">
