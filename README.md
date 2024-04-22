@@ -1,5 +1,4 @@
 <h2 align="left">Hi 👋! My name is Zohaib Shahid and I'm a CSE Undergrad, from Pakistan.<br>Currently learning .NET and React.</h2>
-
 ###
 
 <div align="center">
